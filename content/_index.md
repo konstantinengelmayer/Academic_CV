@@ -62,20 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Student assistent
+          company: Westphalian Wilhelms University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-wwu
+          location: Münster
+          date_start: '2021-10-01'
+          date_end: '2022-09-30'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
+              * Research Group Ecohydrology and Biogeochemistry: Supervision of the hydrological laboratory practical course
+              * Research Group Soil Science: Laboratory and field work
+        - title: I
           company: University X
           company_url: ''
           company_logo: org-x
@@ -235,10 +234,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+
       # Contact (add or remove contact options as necessary)
       email: konstantin.engelmayer@live.de
-      phone: 01723728084
+      phone: '+49 172 3728084'
       address:
         street: Schuhmarkt 4
         city: Marburg
@@ -250,8 +249,8 @@ sections:
       office_hours:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: 
+        longitude: 
       contact_links:
       # Automatically link email and phone or display as text?
       autolink: true

@@ -40,7 +40,7 @@ education:
       institution: Philipps University Marburg
       year: 2023 until now
     - course: BSc in Landscape Ecology
-      institution: Wilhelms University Münster
+      institution: Westphalian Wilhelms University Münster
       year: 2022
 
 # Skills
