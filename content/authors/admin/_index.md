@@ -51,17 +51,17 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: python
+        icon: r-project
         icon_pack: fab
       - name: Python
         description: ''
         percent: 40
-        icon: chart-line
-        icon_pack: fas
+        icon: Python
+        icon_pack: fab
       - name: QGIS
         description: ''
         percent: 80
-        icon: database
+        icon: map
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -70,17 +70,17 @@ skills:
       - name: Guitar
         description: ''
         percent: 100
-        icon: musical-note
+        icon: music
         icon_pack: fas
-      - name: Cats
+      - name: Hiking
         description: ''
-        percent: 80
+        percent: 70
         icon: person-hiking 
         icon_pack: fas
-      - name: Photography
+      - name: Climbing
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: hand-rock
         icon_pack: fas
 
 # Social/Academic Networking
