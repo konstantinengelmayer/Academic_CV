@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'konstantin.engelmayer@live.de'
+    link: 'mailto:konstantin.engelmayer@live.de'
   - icon: github
     icon_pack: fab
     link: https://github.com/konstantinengelmayer

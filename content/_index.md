@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-02-20
 type: landing
 
 sections:
@@ -238,7 +238,7 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: konstantin.engelmayer@live.de
-      phone: 00491723728084
+      phone: 01723728084
       address:
         street: Schuhmarkt 4
         city: Marburg
