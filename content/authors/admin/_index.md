@@ -62,7 +62,7 @@ skills:
         description: 'Earth Engine Code Editor'
         percent: 10
         icon: js
-        icon_pack: fas
+        icon_pack: fab
   - name: Other skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -71,7 +71,7 @@ skills:
         description: 'Version control, project management'
         percent: 80
         icon: github
-        icon_pack: fas
+        icon_pack: fab
       - name: QGIS
         description: 'Cartography, spatial analyses, R/Python Plugins'
         percent: 70
@@ -80,8 +80,8 @@ skills:
       - name: Markup Languages (Markdown/TeX)
         description: 'Project documentation, scientific writing'
         percent: 80
-        icon: 
-        icon_pack: fas
+        icon: markdown
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

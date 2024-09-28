@@ -64,7 +64,7 @@ sections:
       items:
         - title: Student assistent
           company: Westphalian Wilhelms University
-          company_url: ''
+          company_url: 'https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml'
           company_logo: org-wwu
           location: Münster
           date_start: '2021-10-01'
@@ -74,85 +74,32 @@ sections:
 
               * Research Group Ecohydrology and Biogeochemistry: Supervision of the hydrological laboratory practical course
               * Research Group Soil Science: Laboratory and field work
-        - title: I
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Internship as a GIS Developer
+          company: Hydrotec
+          company_url: 'https://www.hydrotec.de/en/'
+          company_logo: org-hydrotec
+          location: Aachen
+          date_start: '2023-02-01'
+          date_end: '2023-08-31'
+          description: |2-
+            Responsibilities include:
+            * Development of QGIS plugin to automate parts of heavy rain fall modelling
+            * revising the risk assessments of rivers in North Rhine-Westphalia based on the damage caused by the 2021 century flood
+        - title: Student assistent
+          company: Philipps University Marburg
+          company_url: 'https://www.uni-marburg.de/en/fb19'
+          company_logo: org-marburg
+          location: Marburg
+          date_start: '2024-03-01'
+          date_end: '2024-09-30'
+          description: |2-
+              Responsibilities include:
+
+              * Research Group Environmental Informatics: Accompaniment of a Base-R course and creation of a Base-Python course using HTML-based learning environments.
+              * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the FORGENIUS project
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  
   - block: portfolio
     id: projects
     content:
