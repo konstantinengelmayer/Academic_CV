@@ -37,50 +37,50 @@ interests:
 education:
   courses:
     - course: MSc in Physical Geography
-      institution: Philipps University Marburg
+      institution: Philipps University Marburg (current NC 0.9)
       year: 2023 until now
     - course: BSc in Landscape Ecology
-      institution: Westphalian Wilhelms University Münster
+      institution: Westphalian Wilhelms University Münster (NC 1.4)
       year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming Languages
     items:
       - name: R
-        description: ''
+        description: 'Spatial analysis, machine learning, deep learning, statistics'
         percent: 90
         icon: r-project
         icon_pack: fab
       - name: Python
-        description: ''
+        description: 'QGIS Plugins, machine learning, deep learning'
         percent: 40
         icon: python
         icon_pack: fab
-      - name: QGIS
-        description: ''
-        percent: 80
-        icon: map
+      - name: JavaScript
+        description: 'Earth Engine Code Editor'
+        percent: 10
+        icon: js
         icon_pack: fas
-  - name: Hobbies
+  - name: Other skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Guitar
-        description: ''
-        percent: 100
-        icon: music
-        icon_pack: fas
-      - name: Hiking
-        description: ''
-        percent: 70
-        icon: person-hiking 
-        icon_pack: fas
-      - name: Climbing
-        description: ''
+      - name: GitHub
+        description: 'Version control, project management'
         percent: 80
-        icon: hand-rock
+        icon: github
+        icon_pack: fas
+      - name: QGIS
+        description: 'Cartography, spatial analyses, R/Python Plugins'
+        percent: 70
+        icon: map
+        icon_pack: fas
+      - name: Markup Languages (Markdown/TeX)
+        description: 'Project documentation, scientific writing'
+        percent: 80
+        icon: 
         icon_pack: fas
 
 # Social/Academic Networking
@@ -105,5 +105,7 @@ social:
 highlight_name: true
 ---
 
-My name is Konstantin Engelmayer, and I am a master's student of physical geography in Marburg. My research interests include remote sensing, data science, and ecology.
+My name is Konstantin Engelmayer, and I am a master's student of Physical Geography at Marburg University. Spending a lot of time in nature during my childhood and still today, I developed a profound appreciation for the environment—a passion that continues to inspire my academic pursuits. My research focuses on analyzing the impact of human activities on nature using remote sensing techniques, statistics, machine learning, and deep learning.
+
+I am dedicated to visualizing spatial relationships to generate knowledge on a broader scale, informing nature conservation management decisions. By quantifying and visualizing human impact on natural ecosystems, I aim to support efforts in environmental conservation and sustainable resource management. Through my work, I hope to make a meaningful contribution to preserving the natural world that has always been so important to me.
 {style="text-align: justify;"}
