@@ -99,7 +99,6 @@ sections:
               * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the FORGENIUS project
     design:
       columns: '2'
-  
   - block: portfolio
     id: projects
     content:
