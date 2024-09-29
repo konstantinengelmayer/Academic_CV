@@ -9,5 +9,5 @@ date: "2024-09-05T00:00:00Z"
 external_link: https://konstantinengelmayer.github.io/Academic_CV/uploads/eon.pdf
 image:
   caption: Photo by Konstantin Engelmayer
-  focal_point: Smart
+  focal_point: Center
 ---
