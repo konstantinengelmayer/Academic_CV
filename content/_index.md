@@ -93,7 +93,7 @@ sections:
           description: |2-
               * Research Group Environmental Informatics: Accompaniment of a Base-R course and creation of a Base-Python course using HTML-based learning environments (7 month)
               * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the FORGENIUS project (4 month)
-              * Research Group Laboratory for Climatology and Remote Sensing: Support in the development of new remote sensing based evaluation methods for growth responses of forest tree species to extreme events (6 month)
+              * Research Group Laboratory for Climatology and Remote Sensing: Support in the development of new remote sensing based evaluation methods for growth responses of forest tree species to extreme events (current employment)
     design:
       columns: '2'
   - block: portfolio
