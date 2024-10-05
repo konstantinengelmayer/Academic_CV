@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -81,8 +83,8 @@ sections:
           date_end: '2023-08-31'
           description: |2-
             Responsibilities include:
-            * Development of QGIS plugin to automate parts of heavy rain fall modelling
-            * revising the risk assessments of rivers in North Rhine-Westphalia based on the damage caused by the 2021 century flood
+            * Development of QGIS plugins to automate parts of heavy rain fall modelling
+            * Revising the risk assessments of rivers in North Rhine-Westphalia based on the damage caused by the 2021 century flood
         - title: Student assistant
           company: Philipps University Marburg
           company_url: 'https://www.uni-marburg.de/en/fb19'
