@@ -94,7 +94,7 @@ sections:
           date_end: ''
           description: |2-
               * Research Group Environmental Informatics: Tutor for all courses of the research group and maintaining the HTML learning environment of some courses. Additionally, created the Base-Python course. (7 month)
-              * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the FORGENIUS project (4 month)
+              * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the [FORGENIUS project](https://www.forgenius.eu/#theProject) project (4 month)
               * Research Group Laboratory for Climatology and Remote Sensing: Support in the development of new remote sensing based evaluation methods for growth responses of forest tree species to extreme events (current employment)
     design:
       columns: '2'
