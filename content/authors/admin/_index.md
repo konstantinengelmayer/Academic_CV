@@ -94,12 +94,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/konstantinengelmayer
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/konstantin-engelmayer-62b8a6331
   - icon: cv
     icon_pack: ai
     link: uploads/Lebenslauf.pdf
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
