@@ -80,7 +80,7 @@ sections:
           company_logo: org-hydrotec
           location: Aachen
           date_start: '2023-02-01'
-          date_end: '2023-04-31'
+          date_end: '2023-04-30'
           description: |2-
             Responsibilities include:
             * Development of QGIS plugins to automate parts of heavy rain fall modelling
