@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: MSc in Physical Geography
-      institution: Philipps University Marburg (current NC 0.9)
+      institution: Philipps University Marburg (current NC 0.83)
       year: 2023 until now
     - course: BSc in Landscape Ecology
       institution: Westphalian Wilhelms University Münster (NC 1.4)
