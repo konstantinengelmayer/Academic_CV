@@ -106,7 +106,7 @@ social:
 highlight_name: true
 ---
 
-My name is Konstantin Engelmayer, and I am a master's student of Physical Geography at Marburg University. Spending a lot of time in nature during my childhood and still today, I developed a profound appreciation for the environment—a passion that continues to inspire my academic pursuits. My research focuses on analyzing the impact of human activities on nature using remote sensing techniques, statistics, machine learning, and deep learning.
+My name is Konstantin Engelmayer, and I am a Master’s student of Physical Geography at Marburg University. As I spent a lot of time in nature, I have developed a deep appreciation for the environment and its conservation. This passion continuously drives and inspires not only my personal interests, but also my academic pursuits. Thus, I have specialized in the analysis of the impact of human activities on nature using remote sensing techniques, statistics, machine learning, and deep learning. 
 
-I am dedicated to visualizing spatial relationships to generate knowledge on a broader scale, informing nature conservation management decisions. By quantifying and visualizing human impact on natural ecosystems, I aim to support efforts in environmental conservation and sustainable resource management. Through my work, I hope to make a meaningful contribution to preserving the natural world that has always been so important to me.
+The visualization of spatial relationships to generate broad-scale knowledge with the aim to inform nature conservation management represents one of my key points of interest and expertise. I thereby seek to support environmental conservation and sustainable resource management by quantifying and visualizing human impact on natural ecosystems. Through this type of work, I aim to make a meaningful contribution to preserving the natural world that has always been so important to me.
 {style="text-align: justify;"}
