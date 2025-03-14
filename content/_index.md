@@ -72,18 +72,27 @@ sections:
           date_start: '2021-10-01'
           date_end: '2022-09-30'
           description: |2-
-              * Research Group Ecohydrology and Biogeochemistry: Supervision of the hydrological laboratory practical course (6 month)
-              * Research Group Soil Science: Laboratory and field work (6 month)
+              * Research Group Ecohydrology and Biogeochemistry: Supervision of the hydrological laboratory practical course (6 months)
+              * Research Group Soil Science: Laboratory and field work (6 months)
         - title: Internship as a GIS Developer
           company: Hydrotec
           company_url: 'https://www.hydrotec.de/en/'
           company_logo: org-hydrotec
           location: Aachen
           date_start: '2023-02-01'
-          date_end: '2023-08-31'
+          date_end: '2023-04-31'
           description: |2-
             Responsibilities include:
             * Development of QGIS plugins to automate parts of heavy rain fall modelling
+        - title: GIS Developer
+          company: Hydrotec
+          company_url: 'https://www.hydrotec.de/en/'
+          company_logo: org-hydrotec
+          location: Aachen
+          date_start: '2023-05-01'
+          date_end: '2023-08-31'
+          description: |2-
+            Responsibilities include:
             * Revising the risk assessments of rivers in North Rhine-Westphalia based on the damage caused by the 2021 century flood
         - title: Student assistant
           company: Philipps University Marburg
@@ -93,8 +102,8 @@ sections:
           date_start: '2024-03-01'
           date_end: ''
           description: |2-
-              * Research Group Environmental Informatics: Tutor for all courses of the research group and maintaining the HTML learning environment of some courses. Additionally, created the Base-Python course. (7 month)
-              * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the [FORGENIUS project](https://www.forgenius.eu/#theProject) project (4 month)
+              * Research Group Environmental Informatics: Tutor for all courses of the research group and maintaining the HTML learning environment of some courses. Additionally, created the Base-Python course. (7 months)
+              * Research Group Plant Ecology and Geobotany: Using remote sensing techniques to contribute to the [FORGENIUS project](https://www.forgenius.eu/#theProject) project (4 months)
               * Research Group Laboratory for Climatology and Remote Sensing: Support in the development of new remote sensing based evaluation methods for growth responses of forest tree species to extreme events (current employment)
     design:
       columns: '2'
